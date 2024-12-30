@@ -1,6 +1,8 @@
 # UNLOCK-2025-Minecraft-Free-1000-Minecoins-CODE
 If you'd like to write an HTML page about the Minecraft game, it could serve multiple purposes: to provide information about the game, host a Minecraft-themed blog, or even create a portfolio showcasing Minecraft builds. Here's an example of what such an HTML file could look like:
 
+<h2><a href="https://allresources.xyz/mcrafts.html/">LEARN MORE</a></h2>
+
 Basic Minecraft Game HTML Example:
 html
 Copy code
